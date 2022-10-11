@@ -1,8 +1,8 @@
 /* Name Of the Candidate: T.Muheet ur rahman
-   Roll No: 204G1A0554
+   Roll No: 204G1A0562
    Title of the Experiment: CPU Scheduling Using FCFS Algorithm
-   Date of Creation: 06-09-2022
-   Date of Execution: 06-09-2022
+   Date of Creation: 10-09-2022
+   Date of Execution: 10-10-2022
 */
 #include<stdio.h>
 void main()
