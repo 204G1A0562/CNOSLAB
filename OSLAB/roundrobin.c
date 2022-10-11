@@ -1,4 +1,4 @@
-/* Name Of the Candidate: Manoj Reddy C
+/* Name Of the Candidate: T.Muheet ur rahman
    Roll No: 204G1A0554
    Title of the Experiment: CPU Scheduling Using Round Robin Algorithm
    Date of Creation: 13-09-2022
